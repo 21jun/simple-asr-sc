@@ -1,0 +1,16 @@
+[
+    {
+        "Pred": "after her brother s debut concert the assassin moscow tries to kill michael ",
+        "gold": "after her brother s debut concert the assassin mosca tries to kill michael ",
+        "goph": "ˈæftər hər ˈbrʌðər ɛs deɪˈbju ˈkɑnsərt ðə əˈsæsən ˈmoʊskə traɪz tu kɪl ˈmaɪkəl",
+        "cer": 0.02702702702702703,
+        "wer": 0.07692307692307693
+    },
+    {
+        "Pred": "the vladivostok international airport is located near aratail ",
+        "gold": "the vladivostok international airport is located near artyom ",
+        "goph": "ðə vˌlædɪˈvɔstɑk ˌɪntərˈnæʃənɑl ˈɛrˌpɔrt ɪz ˈloʊˌkeɪtəd nɪr artyom*",
+        "cer": 0.06666666666666667,
+        "wer": 0.125
+    }
+]

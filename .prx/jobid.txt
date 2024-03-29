@@ -1,0 +1,3 @@
+220746	2024-03-30 02:13:43.453557	/home/lee1jun/develop/asr-sc-jhl/box/exp/runs/run_20240330-021341/run.sbatch	A6000 x 4	
+220747	2024-03-30 02:14:41.415087	/home/lee1jun/develop/asr-sc-jhl/box/exp/runs/run_20240330-021440/run.sbatch	RTX6000ADA x 4	
+220748	2024-03-30 02:15:14.235491	/home/lee1jun/develop/asr-sc-jhl/box/exp/runs/run_20240330-021513/run.sbatch	3090 x 4	
